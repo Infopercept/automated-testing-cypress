@@ -80,4 +80,4 @@ I have included a demo for Page object Model
 
 This will execute all the tests in the test folder
 
-We can specify the file to be executed by appending –s followed by the file path in command line
+We can specify the file to be executed by appending –s followed by the file path in command line  
